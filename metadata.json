@@ -1,0 +1,5 @@
+{
+  "name": "Ink Extend",
+  "description": "An AI-powered web app to help users extend or update an existing tattoo. Upload a photo of your current tattoo and generate realistic on-body mockups.",
+  "requestFramePermissions": []
+}
